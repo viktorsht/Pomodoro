@@ -1,6 +1,6 @@
 # Pomodoro
 ## Trabalho
-![trabalho](URL da imagem)
+![trabalho](img/trabalho.jpeg)
 
 ## Descanso
-![descanso](URL da imagem)
+![descanso](img/descanso.jpeg)
