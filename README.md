@@ -1,6 +1,7 @@
 # Pomodoro
+
 ## Trabalho
-![trabalho](img/trabalho.jpeg)
+<img src="img/trabalho.jpeg" alt="Trabalho" width="300" height="200">
 
 ## Descanso
-![descanso](img/descanso.jpeg)
+<img src="img/descanso.jpeg" alt="Descanso" width="300" height="200">
